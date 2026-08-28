@@ -14,7 +14,7 @@ BOT_TOKEN = "8945120303:AAGPsZrxh5suDZOVrMBKX2tcwPO5usra7ZM"
 OWNER_ID = 5091149246
 
 # Apni authorized API yahan lagao
-API_URL = "PASTE_YOUR_API_URL_HERE"
+API_URL = "https://wasifali.biz.id/public_apis/sim-info-api.php"
 
 
 # =========================================================
